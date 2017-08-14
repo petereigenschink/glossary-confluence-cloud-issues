@@ -2,7 +2,7 @@
 
 Glossary for Confluence Cloud is an add-on in the Atlassian marketplace. It allows you to manage technical terms in glossaries with different topics attached to spaces.
 
-The present repository is used to track issues and feature requests coming up during the usage of that add-on.
+The present repository is used to track issues and feature requests coming up during the usage of that add-on. You can create issues right [here](https://github.com/petereigenschink/glossary-confluence-cloud-issues/issues).
 
 ## Contact me:
 If you have any questions feel free to [contact me directly](mailto:contact@peter-eigenschink.at).
